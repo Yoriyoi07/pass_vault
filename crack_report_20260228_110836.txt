@@ -1,8 +1,0 @@
-CYBERSCAN ZIP CRACKER AUDIT LOG
-Target File: secret.txt.zip
-Full Path: C:/Users/gianc/OneDrive/Desktop/secret.txt.zip
-----------------------------------------
---- Scan Started: 2026-02-28 11:08:34.164685 ---
-[!] Using external wordlist.
-[+] SUCCESS: FOOTball123
-
